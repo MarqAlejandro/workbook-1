@@ -10,7 +10,7 @@ public class Main {
 
         SandwichShop sandwichShop = new SandwichShop();
 
-        sandwichShop.Selection();
+        sandwichShop.StartSandwichMaking();
 
 
     }
